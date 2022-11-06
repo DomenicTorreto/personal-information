@@ -22,4 +22,3 @@
 - Посещение кино, музеев, выставок
 - Шахматы
 
-![avatar](https://v1.popcornnews.ru/k2/news/1200/upload/news/319839641954.jpg)
